@@ -1,5 +1,8 @@
 # Online-Offline-Budget-Tracker
 
+## Live Demo
+![Budget Tracker](demo.gif)
+
 ## Description
 
 This Progressive WebApplication provides offline access and functionality, it allows users to add expenses and deposits to their budget with or without connection.
@@ -9,6 +12,7 @@ This Progressive WebApplication provides offline access and functionality, it al
 A PWA is a web application that can be installed on your system. It works offline when you don't have an internet connection, leveraging data cached during your last interactions with the app.If you launch the apps, they will run in Chrome rather than having their own icon. PWAs are installable, linkable, network independent, progressive, re-engageable, responsive, and safe.
 
 ## Usage
+
 Offline Functionality
 
 * You can enter deposits offline
